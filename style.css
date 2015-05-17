@@ -1,0 +1,203 @@
+body{
+	
+}
+
+#navlist{
+	height:70px;
+	background:rgba(0, 0, 0, .4);
+	color:#fff;
+}
+
+#imgSizer{
+	height:35px;
+	width:300px;
+}
+
+#nav_one {
+	height:35px;
+	margin-top:8px;
+}
+
+#nav_one li a{
+	font-size:16px;
+	color:#fff;
+}
+
+#myCarousel{
+	
+	
+}
+
+#css_width{
+	width:1170px;
+}
+
+#myCarousel p{
+	text-align:center;
+}
+
+#features{
+	background:#E46667;
+	width:1140px;
+	margin-left:0px;
+	text-align:center;
+	
+}
+
+#features h4{
+	text-align:center;
+	color:#ECBA1B;
+	font-size:22px;
+}
+
+#features h5{
+	color:#fff;
+	font-size:18px;
+	padding:10px 0;
+}
+
+#features p{
+	color:#fff;
+	font-weight:normal;
+	line-height:20px;
+	padding-bottom:10px;
+}
+
+#css_feature_style{
+	padding-bottom:30px;
+}
+
+#img{
+	width:100px;
+	height:100px;
+	
+}
+
+#features{
+	padding:40px 130px;
+}
+
+#btn{
+	background:#E56768;
+	color:#fff;
+}
+
+
+#latest_works{
+	width:1140px;
+	margin-left:0px;
+	padding:30px;
+	background:#F6F1ED;
+}
+
+#css_sp{
+	color:#ECBA1B;
+}
+
+#css_st h2{
+	color:#ECBA1B;
+	font-weight:normal;
+	text-align:center;
+	padding-left:420px;
+	font-size:26px;
+}
+
+#css_btn{
+	color:#ECBA1B;
+	border:1px solid #ECBA1B;
+	width:20px;
+	height:20px;
+	padding:2px;
+	margin-top:14px;
+}
+
+
+#under_latest_work{
+	width:1120px;
+	margin-right:0px;
+	height:420px;
+}
+
+
+#css_image_prfct{
+	width:300px;
+	height:200px;
+}
+
+
+#blog_post{
+	width:1140px;
+	margin-left:0px;
+	padding: 30px 200px;
+	background:#D9DDC4;
+}
+
+#blog_post {
+	text-align:center;
+}
+
+#blog_post h3{
+	padding:30px 0px;
+}
+
+#css_blogImg{
+	width:80px;
+	height:80px;
+	margin-top:-40px;
+	
+	
+}
+
+#css_amrcImg{
+	width:250px;
+	height:150px;
+}
+
+#blog_post h3{
+	color:#ECBA1B;
+}
+
+#blog_post p{
+	color:#B18465;
+}
+
+#map{
+	width:1140px;
+}
+
+#form_validation{
+	background:#fff;
+	text-align:center;
+	padding:50px 0px;
+	margin-top: 130px;
+	margin-left: -323px;
+}
+
+#form_validation h2{
+	color:#ECBA1B;
+}
+
+#form_validation p{
+	color:#B18465;
+}
+
+#footer{
+	padding-left:410px;
+}
+
+#last_footer{
+	height:30px;
+	margin-top:-30px;
+}
+#last_footer p{
+	color:#ddd;
+	text-align:center;
+	padding:10px 0px;
+}
+
+
+
+
+
+
+
